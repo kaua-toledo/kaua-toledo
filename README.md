@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kauã
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em Formação (Java)**  
-🇧🇷 Santos, SP - Brasil
+🇧🇷 Santos, SP
 
 ---
 
