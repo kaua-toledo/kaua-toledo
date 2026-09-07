@@ -1,66 +1,53 @@
-# 👨🏻‍💻 Kauã Toledo
+# Hi 👋, I'm Kauã
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em Formação (Java)**  
+🇧🇷 Santos, SP - Brasil
 
-**`Desenvolvedor Backend`**
+---
 
-Me chamo Kauã Andreano de Toledo, tenho 19 anos e sou natural de Santos e apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, e focado em construir uma base sólida no desenvolvimento backend, com forte interesse e projetos práticos voltados para o ecossistema Java. Busco constantemente evoluir minhas habilidades técnicas criando soluções eficientes e aplicando boas práticas de programação.
+## 🌐 Onde me encontrar
 
-<p align="left">
-    <a href="https://github.com/kaua-toledo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/kaua-toledo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/kaua-toledo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/kaua-toledo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+[![GitHub](https://img.shields.io/badge/GitHub-kaua--toledo-181717?style=for-the-badge&logo=github)](https://github.com/kaua-toledo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Toledo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-a-toledo/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toledokaua05@gmail.com)
+
+---
+
+## 🎯 Foco Atual & Estudos
+
+- ☕ **Java Core**: Fundamentos de POO, coleções, tratamento de exceções e boas práticas
+- 📐 **Algoritmos & Lógica**: Resolução de problemas e consolidação da base de programação
+- 🌱 **Spring Framework**: Primeiros passos na construção de APIs RESTful e injeção de dependências
+- 🗄️ **Bancos de Dados**: Modelagem de dados relacionais e escrita de consultas com SQL e MySQL
+- 🛠️ **Controle de Versão**: Boas práticas de versionamento com Git e organização no GitHub
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=datagrip&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Em aprendizado
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=kaua-toledo&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kaua-toledo&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kaua-toledo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-toledo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  🤝 <b>Aberto a networking, troca de conhecimentos e oportunidades de estágio/júnior</b>
 </p>
