@@ -1,53 +1,44 @@
-# Hi 👋, I'm Kauã
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em Formação (Java)**  
-🇧🇷 Santos, SP
+# Kauã Toledo
+
+> **Estudante de Análise e Desenvolvimento de Sistemas**  
+> Desenvolvedor Backend em Formação com foco no ecossistema Java.  
+> 📍 Santos, SP · [LinkedIn](https://www.linkedin.com/in/kaua-a-toledo/) · [Email](mailto:toledokaua05@gmail.com)
 
 ---
 
-## 🌐 Onde me encontrar
+### 🎯 Foco de Estudo Atual
 
-[![GitHub](https://img.shields.io/badge/GitHub-kaua--toledo-181717?style=for-the-badge&logo=github)](https://github.com/kaua-toledo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Toledo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-a-toledo/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toledokaua05@gmail.com)
-
----
-
-## 🎯 Foco Atual & Estudos
-
-- ☕ **Java Core**: Fundamentos de POO, coleções, tratamento de exceções e boas práticas
-- 📐 **Algoritmos & Lógica**: Resolução de problemas e consolidação da base de programação
-- 🌱 **Spring Framework**: Primeiros passos na construção de APIs RESTful e injeção de dependências
-- 🗄️ **Bancos de Dados**: Modelagem de dados relacionais e escrita de consultas com SQL e MySQL
-- 🛠️ **Controle de Versão**: Boas práticas de versionamento com Git e organização no GitHub
+* **Core:** Algoritmos, Estruturas de Dados e Programação Orientada a Objetos (POO) com Java.
+* **Backend Frameworks:** Desenvolvimento de APIs RESTful utilizando o ecossistema Spring (Spring Boot, Data JPA).
+* **Persistência:** Modelagem de dados relacionais e ORM com MySQL, PostgreSQL e Hibernate.
+* **Ferramentas:** Controle de versão com Git e práticas de organização no GitHub.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Stack
 
-### Tecnologias
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=datagrip&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Em aprendizado
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```java
+public class Stack {
+    public String[] linguagens = {"Java", "SQL"};
+    public String[] frameworks = {"Spring Boot", "Spring Data JPA", "Hibernate"};
+    public String[] bancosDados = {"MySQL", "PostgreSQL", "MongoDB"};
+    public String[] ferramentas = {"Git", "GitHub"};
+}
+```
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📁 Repositórios em Destaque
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=kaua-toledo&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kaua-toledo&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
+#### 📐 [Algoritmos e Lógica de Programação](https://github.com/kaua-toledo)
+*Implementação prática e resolução de problemas usando Java para consolidação da base computacional.*
+* **Stack:** Java Core, Git.
+
+#### 🌱 [API REST com Spring Boot (Em Breve)](https://github.com/kaua-toledo)
+*Desenvolvimento de serviços backend escaláveis com persistência de dados e injeção de dependências.*
+* **Stack:** Spring Boot, Spring Data JPA, MySQL.
 
 ---
 
-<p align="center">
-  🤝 <b>Aberto a networking, troca de conhecimentos e oportunidades de estágio/júnior</b>
-</p>
+### 🤝 Contato
+Estou em busca de oportunidades de **Estágio** ou posições **Júnior** na área de desenvolvimento Backend. Sinta-se à vontade para se conectar comigo no [LinkedIn](https://www.linkedin.com/in/kaua-a-toledo/) para trocarmos conhecimentos.
